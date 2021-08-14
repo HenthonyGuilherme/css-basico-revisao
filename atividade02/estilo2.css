@@ -1,0 +1,28 @@
+div{
+    width: auto;
+    height: 145px;
+
+}
+#a1{ 
+    background-color: red;
+    border: 7px solid green;
+}
+#a2{
+    background-color: white;
+    border: 2px solid;
+    font-size: 19px
+}
+#a3{
+    background-color: blueviolet;
+    border: 2px solid;
+    font-size: 20px
+
+}
+#a4{
+    background-color: orange;
+    border: 7px solid brown;
+    font-size: 40px;
+}
+.b1{color: green;}
+.b2{color: purple;}
+.b3{color: yellow;}
